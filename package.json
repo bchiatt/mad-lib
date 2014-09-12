@@ -1,17 +1,17 @@
 {
-  "name": "mean-template",
+  "name": "mad-lib",
   "version": "0.0.0",
-  "description": "The MEAN Template",
+  "description": "A simple mad-lib app exploring angular features",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nss-cohort-2014-06-07/mean-template"
+    "url": "https://github.com/bchiatt/mad-lib"
   },
-  "author": "Chyld Medford <chyld.medford@gmail.com>",
+  "author": "Brian Hiatt <brian.hiatt41@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nss-cohort-2014-06-07/mean-template/issues"
+    "url": "https://github.com/bchiatt/mad-lib/issues"
   },
-  "homepage": "https://github.com/nss-cohort-2014-06-07/mean-template",
+  "homepage": "https://github.com/bchiatt/mad-lib",
   "dependencies": {
     "async": "^0.9.0",
     "bcrypt": "^0.8.0",

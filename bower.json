@@ -1,11 +1,11 @@
 {
-  "name": "mean-template",
+  "name": "mad-lib",
   "version": "0.0.0",
-  "homepage": "https://github.com/nss-cohort-2014-06-07/mean-template",
+  "homepage": "https://github.com/bchiatt/mad-lib",
   "authors": [
-    "Chyld Medford <chyld.medford@gmail.com>"
+    "Brian Hiatt <brian.hiatt41@gmail.com>"
   ],
-  "description": "The MEAN Template",
+  "description": "A mad lib app that explores angular features.",
   "license": "MIT",
   "dependencies": {
     "angular": "1.3.0-rc.0",
